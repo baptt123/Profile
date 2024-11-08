@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanh Tan</h1>
-<h3 align="center">A final year student at Nong Lam University.My dream is becoming a professional mobile developer.I'll go and go on improving my skill to</h3>
+<h3 align="center">A final year student at Nong Lam University.
+  My dream is becoming a professional mobile developer.
+  I'll go and go on improving my skill to achive my dream</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
